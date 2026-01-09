@@ -60,29 +60,34 @@
 - Grid produk + detail view  
 - Eksplorasi layout skala besar  
 
-> Semua project disiapkan sebagai **foundation** untuk scaling ke backend, auth, dan deployment.
-
 ---
 
 ### **Connect**
 
 <div align="center">
-  <a href="[LINK LINKEDIN ANDA]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[LINK INSTAGRAM ANDA]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="[LINK TIKTOK ANDA]" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="[LINK AKUN X ANDA]" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:[EMAIL ANDA]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/fadhil-sulthan-b42805352/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/thanzero7/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-1E1E1E?style=flat-square&logo=instagram&logoColor=E4405F" />
+</a>
+
+<a href="https://www.tiktok.com/@thanzero77?_r=1&_t=ZS-92vB40CANFQ" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-1E1E1E?style=flat-square&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://x.com/Thanzero7" target="_blank">
+  <img src="https://img.shields.io/badge/X-1E1E1E?style=flat-square&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:Thanzero01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1E1E1E?style=flat-square&logo=gmail&logoColor=D14836" />
+</a>
+
 </div>
+
 
 ---
 
