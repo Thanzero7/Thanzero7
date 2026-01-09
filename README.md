@@ -43,7 +43,6 @@
 - Playground untuk eksplorasi JavaScript & design  
 
 #### 💻 **Laptop E-Commerce Website**
-🔗 https://github.com/Thanzero7/selling-laptop  
 🔗 https://github.com/Thanzero7/Selling_laptop  
 - Website katalog produk laptop  
 - Struktur halaman produk, pricing, dan layout toko  
