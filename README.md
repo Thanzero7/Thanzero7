@@ -66,21 +66,26 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fadhil-sulthan-b42805352/" target="_blank">
-    <img src="[https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2](https://i.pinimg.com/736x/da/bc/c5/dabcc56e123d97880645307481e0f322.jpg)" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="38" height="38" style="margin: 0 10px;" />
   </a>
+
   <a href="https://www.instagram.com/thanzero7/" target="_blank">
-    <img src="https://i.pinimg.com/736x/3c/0b/52/3c0b5296e29c391d50a7580b3e949a34.jpg" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="38" height="38" style="margin: 0 10px;" />
   </a>
+
   <a href="https://www.tiktok.com/@thanzero77?_r=1&_t=ZS-92vB40CANFQ" target="_blank">
-    <img src="[https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white](https://i.pinimg.com/1200x/db/bb/57/dbbb57e4a4dd74be71504cdbac7a3095.jpg)" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" width="38" height="38" style="margin: 0 10px;" />
   </a>
+
   <a href="https://x.com/Thanzero7" target="_blank">
-    <img src="https://i.pinimg.com/736x/c1/d9/6c/c1d96c1f7a256e1a4dc31da44d715178.jpg" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="38" height="38" style="margin: 0 10px;" />
   </a>
+
   <a href="mailto:Thanzero01@gmail.com">
-    <img src="https://i.pinimg.com/736x/8e/dd/89/8edd899895fde05fe3c9d60499fde572.jpg" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="38" height="38" style="margin: 0 10px;" />
   </a>
 </div>
+
 
 ---
 
