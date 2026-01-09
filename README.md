@@ -6,10 +6,7 @@
 
 ### FADHIL SULTHAN
 
-**Software Developer | Web Systems | Odoo Ecosystem | ML Explorer**
-
-Developer berbasis Indonesia dengan fokus pada **pembangunan sistem nyata**: web application, business system (Odoo), mobile app, dan eksplorasi Machine Learning.  
-Terbiasa bekerja lintas stack, dari UI sampai deployment, dengan pendekatan **structured, documented, dan scalable**.
+**Web Developer · Mobile Developer · Machine Learning Engineer**
 
 ---
 
@@ -17,7 +14,6 @@ Terbiasa bekerja lintas stack, dari UI sampai deployment, dengan pendekatan **st
 
 - End-to-end web & system development  
 - Odoo customization (backend & Owl frontend)  
-- Containerized development with Docker  
 - Documentation-driven development  
 - Continuous learning on ML & data handling  
 
@@ -33,6 +29,39 @@ Terbiasa bekerja lintas stack, dari UI sampai deployment, dengan pendekatan **st
 | **Machine Learning** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CSV/XML](https://img.shields.io/badge/-CSV%2FXML-E8A904?style=flat-square&logo=json&logoColor=white) |
 | **Documentation & Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitBook](https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white) ![Fumadoc](https://img.shields.io/badge/-Fumadoc-000000?style=flat-square&logo=markdown&logoColor=white) |
 | **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Zed](https://img.shields.io/badge/-Zed-3A3A3A?style=flat-square&logo=zedindustries&logoColor=white) ![Antigravity](https://img.shields.io/badge/-Antigravity-111111?style=flat-square&logo=python&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white) |
+
+---
+
+### **Selected Projects**
+
+> Project nyata, belum hosting, tapi **kode jalan dan bisa dikembangkan**.
+
+#### 🧠 **Waifu Project**
+🔗 https://github.com/Thanzero7/Waifu  
+- Eksperimen frontend & struktur project  
+- Fokus ke UI, asset handling, dan logic dasar  
+- Playground untuk eksplorasi JavaScript & design  
+
+#### 💻 **Laptop E-Commerce Website**
+🔗 https://github.com/Thanzero7/selling-laptop  
+🔗 https://github.com/Thanzero7/Selling_laptop  
+- Website katalog produk laptop  
+- Struktur halaman produk, pricing, dan layout toko  
+- Latihan clean UI + reusable component  
+
+#### ⌚ **Watch Store Website**
+🔗 https://github.com/Thanzero7/selling-watch  
+- Website penjualan jam tangan  
+- Fokus ke visual hierarchy & product showcase  
+- Cocok sebagai base e-commerce template  
+
+#### 📺 **Television Store Website**
+🔗 https://github.com/Thanzero7/selling-television  
+- Website katalog TV elektronik  
+- Grid produk + detail view  
+- Eksplorasi layout skala besar  
+
+> Semua project disiapkan sebagai **foundation** untuk scaling ke backend, auth, dan deployment.
 
 ---
 
