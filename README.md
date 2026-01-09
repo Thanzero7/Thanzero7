@@ -4,35 +4,39 @@
 
 ---
 
-### Halo, Saya FADHIL SULTHAN 👋
+### FADHIL SULTHAN
 
-Saya adalah seorang **Newbie Developer dari Indonesia** yang fokus pada pengembangan website, aplikasi, dan Machine Learning. Saat ini saya membangun personal branding melalui berbagai proyek nyata, baik web, aplikasi, maupun ML.
+**Software Developer | Web Systems | Odoo Ecosystem | ML Explorer**
 
----
-
-### **Tentang Saya**
-
-Saya aktif belajar lintas bidang dan tidak terpaku pada satu stack.
-
-- 📚 **Sedang Belajar:** Frontend, backend, mobile, ML, serta non-teknis seperti time management, design, matematika, dan bahasa Inggris.
-- 💡 **Bisa Ditanya Tentang:** Pembuatan website, aplikasi, ML, design, dan pengembangan sistem.
-- 📬 **Hobi:** Musik, tidur (serius), menulis novel, bikin musik, gambar, dan gym.
+Developer berbasis Indonesia dengan fokus pada **pembangunan sistem nyata**: web application, business system (Odoo), mobile app, dan eksplorasi Machine Learning.  
+Terbiasa bekerja lintas stack, dari UI sampai deployment, dengan pendekatan **structured, documented, dan scalable**.
 
 ---
 
-### **Keahlian yang Saya Miliki**
+### **Technical Focus**
 
-| Kategori | Teknologi |
+- End-to-end web & system development  
+- Odoo customization (backend & Owl frontend)  
+- Containerized development with Docker  
+- Documentation-driven development  
+- Continuous learning on ML & data handling  
+
+---
+
+### **Tech Stack**
+
+| Domain | Stack |
 | :--- | :--- |
-| **Frontend Development** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Owl](https://img.shields.io/badge/-Owl%20(Odoo)-875A7B?style=flat-square&logo=odoo&logoColor=white) |
-| **Backend Development** | ![Odoo](https://img.shields.io/badge/-Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Mobile Development** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Owl](https://img.shields.io/badge/-Owl%20(Odoo)-875A7B?style=flat-square&logo=odoo&logoColor=white) |
+| **Backend & System** | ![Odoo](https://img.shields.io/badge/-Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Mobile** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Machine Learning** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CSV/XML](https://img.shields.io/badge/-CSV%2FXML-E8A904?style=flat-square&logo=json&logoColor=white) |
-| **Documentation** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitBook](https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white) ![Fumadoc](https://img.shields.io/badge/-Fumadoc-000000?style=flat-square&logo=markdown&logoColor=white) |
+| **Documentation & Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitBook](https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white) ![Fumadoc](https://img.shields.io/badge/-Fumadoc-000000?style=flat-square&logo=markdown&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Zed](https://img.shields.io/badge/-Zed-3A3A3A?style=flat-square&logo=zedindustries&logoColor=white) ![Antigravity](https://img.shields.io/badge/-Antigravity-111111?style=flat-square&logo=python&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white) |
 
 ---
 
-### **Terhubung dengan Saya**
+### **Connect**
 
 <div align="center">
   <a href="[LINK LINKEDIN ANDA]" target="_blank">
