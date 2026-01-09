@@ -65,28 +65,23 @@
 ### **Connect**
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/fadhil-sulthan-b42805352/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/thanzero7/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-1E1E1E?style=flat-square&logo=instagram&logoColor=E4405F" />
-</a>
-
-<a href="https://www.tiktok.com/@thanzero77?_r=1&_t=ZS-92vB40CANFQ" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-1E1E1E?style=flat-square&logo=tiktok&logoColor=white" />
-</a>
-
-<a href="https://x.com/Thanzero7" target="_blank">
-  <img src="https://img.shields.io/badge/X-1E1E1E?style=flat-square&logo=x&logoColor=white" />
-</a>
-
-<a href="mailto:Thanzero01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1E1E1E?style=flat-square&logo=gmail&logoColor=D14836" />
-</a>
-
+  <a href="https://www.linkedin.com/in/fadhil-sulthan-b42805352/" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.instagram.com/thanzero7/" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://www.tiktok.com/@thanzero77?_r=1&_t=ZS-92vB40CANFQ" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://x.com/Thanzero7" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:Thanzero01@gmail.com">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
+  </a>
 </div>
+>
 
 
 ---
